@@ -31,7 +31,7 @@ const imageAltText = " laptop";
  */
 const projectList = [
   {
-    title: My Blog Website 🎉",
+    title: "My Blog Website 🎉",
     description:
       "This is my Blog Website",
     url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
